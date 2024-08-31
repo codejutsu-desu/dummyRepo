@@ -1,5 +1,5 @@
 ---
-name: Documentation Request
+name: Documentation request
 about: Make changes in the documentation
 title: ''
 labels: ''
